@@ -19,8 +19,7 @@
     "minimum-stability": "dev",
     "require": {
         "ext-json": "*",
-        "topthink/framework": "^6.0",
-        "nesbot/carbon": "^2.16"
+        "topthink/framework": "^6.0"
     },
     "extra": {
         "think": {
